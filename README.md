@@ -98,7 +98,3 @@ Exemplo de criação:
   "quantidade": 3
 }
 ```
-
-## Observação importante
-
-Substitua `AbinadabeOliveira0000000` pelo seu nome seguido do RU real antes de gerar os prints oficiais do Postman.
